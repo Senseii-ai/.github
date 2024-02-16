@@ -2,11 +2,11 @@
 
 This is a place where AI researchers and enthusiasts come together to experiment and build systems that can be replicated to build user facing applications using AI.
 
-It is a place where new comers can come to learn and get mentored to build software solutions that can solve real world problems using the power of AI.
+New comers can come to learn and get mentored to build software solutions that can solve real world problems using the power of AI.
 
 ## The Goal
 
-We research and experiment to build a system that provides a personalised AI expert to the users regardless of the usecase. There are many ways for personalising and making Experts AI assistants in the current world like RAG, Fine-tuning, increasing context lengths of models, promtings strategies like CoT (chain of thoughts), kNN, etc. but they are evolving rapidly and new ways are coming out rapidly.
+We research and experiment to build a system that provides a personalised AI expert to the users regardless of the usecase. There are many ways for personalising and making Expert AI assistants in the current world like RAG, Fine-tuning, increasing context lengths of models, promtings strategies like CoT (chain of thoughts), kNN, etc. but they are evolving rapidly and new ways are coming out every other day.
 
 This organisation is an Open Community for AI enthusiasts to collaborate and experiment different ways of achieving personalised general intelligence. There are many frontiers like OpenAI, Google, Microsoft trying to improve the model performance, we want to be the frontiers for building user facing applications using those models.
 
@@ -16,7 +16,7 @@ The product would be a personalised AI assistant that helps the user to achieve 
 
 ### Why this product ?
 
-The product idea covers a wide variety of domains for research and experimentation. The solution must be an expert in domain of that goal, so if the user has a fitness related goal, the assistant should be an expert in health and fitness to provide research backed suggstios because it is a sensitive area for AI to work.
+The product idea covers a wide variety of domains for research and experimentation. The solution must be an expert in domain of that goal, so if the user has a fitness related goal, the assistant should be an expert in health and fitness to provide research backed suggstions because it is a sensitive area for AI to work.
 
 Similarly, to provide personalised experience, context related to every user needs to be properly managed, including past conversations, suggestions, agreements etc. This is another major milestone if a system that can be replicated is developed.
 
